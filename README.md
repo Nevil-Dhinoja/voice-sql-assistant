@@ -18,7 +18,7 @@
 </div>
 
 ---
-<img src="assets/architecture.html" width="100%"/>
+<img src="assets/architecture.svg" width="100%"/>
 ---
 
 ## What Is This?
