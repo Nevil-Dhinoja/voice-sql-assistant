@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+sqlalchemy
+openai-whisper
+gTTS
+pyaudio
+sounddevice
+soundfile
+python-dotenv
+pandas

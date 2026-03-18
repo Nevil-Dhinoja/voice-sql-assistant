@@ -1,0 +1,10 @@
+.env
+audio/
+__pycache__/
+*.pyc
+*.pyo
+data/school.db
+.whisper/
+*.mp3
+*.wav
+tmp/
